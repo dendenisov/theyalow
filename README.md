@@ -1,2 +1,2 @@
 # theyalow
-[click](dendenisov.github.io/theyalow/index)
+[click](https://dendenisov.github.io/theyalow/)
